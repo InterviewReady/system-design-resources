@@ -40,6 +40,11 @@ Internals of Amazon Dynamo DB: https://www.youtube.com/watch?v=yvBR71D0nAQ
 API Design: https://medium.com/airbnb-engineering/building-services-at-airbnb-part-1-c4c1d8fa811b
 Swagger APIs: https://swagger.io/docs/specification/about/
 Sorted String Tables and Compaction Strategies: https://github.com/scylladb/scylla/wiki/SSTable-compaction-and-compaction-strategies
+Leveled Compaction Cassandra: https://www.datastax.com/blog/leveled-compaction-apache-cassandra
+Log Structured Merge Tree: https://www.cs.umb.edu/~poneil/lsmtree.pdf
+Scylla DB Compaction: https://github.com/scylladb/scylla/wiki/SSTable-compaction-and-compaction-strategies
+Cassandra Architecture: https://docs.datastax.com/en/archived/cassandra/3.0/cassandra/architecture/archIntro.html
+Google BigTable Architecture: https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
 Hyperloglog Algorithm: https://odino.org/my-favorite-data-structure-hyperloglog/
 Caching: http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html
 Microsoft Caching Guide: https://docs.microsoft.com/en-us/previous-versions/msp-n-p/dn589802(v%3dpandp.10)
@@ -78,3 +83,17 @@ What is a message queue: https://www.cloudamqp.com/blog/what-is-message-queuing.
 Distributed Design Patterns: http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html
 Consistent hashing: https://michaelnielsen.org/blog/consistent-hashing/
 Facebook Messenger Optimisations: https://spectrum.ieee.org/how-facebooks-software-engineers-prepare-messenger-for-new-years-eve
+Outlier Detection: https://towardsdatascience.com/outlier-detection-with-isolation-forest-3d190448d45e
+Anomaly Detection: https://towardsdatascience.com/machine-learning-for-anomaly-detection-and-condition-monitoring-d4614e7de770
+Uber Real Time Monitoring and Root Cause Analysis Argos: https://eng.uber.com/argos-real-time-alerts/
+Microsoft Anomaly Detection: https://www.youtube.com/watch?v=12Xq9OLdQwQ&t=0s
+Facebook real time text search engine: https://www.facebook.com/watch/?v=432864835468
+Avoiding Single Points of Failure: https://medium.com/the-cloud-architect/patterns-for-resilient-architecture-part-3-16e8601c488e
+Netflix Multi-Region Availability: https://netflixtechblog.com/active-active-for-multi-regional-resiliency-c47719f6685b  
+Google S2 library: https://blog.christianperone.com/2015/08/googles-s2-geometry-on-the-sphere-cells-and-hilbert-curve/
+Sharding: https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6
+Netflix Video Encoding at Scale: https://netflixtechblog.com/high-quality-video-encoding-at-scale-d159db052746
+Netflix Shot based encoding: https://netflixtechblog.com/optimized-shot-based-encodes-now-streaming-4b9464204830
+Netflix Real Time Stream Processing: https://netflixtechblog.com/keystone-real-time-stream-processing-platform-a3ee651812a
+Google Guava Cache: https://github.com/google/guava/wiki/CachesExplained
+Caching (See the README): https://github.com/ben-manes/caffeine/

@@ -1,0 +1,5 @@
+Please do not post personal video or podcast resources, unless relevant to system design.
+
+Please give a short description of the link(s) before raising a pull request to add them.
+
+Try to look for good video and blog sources. Private repos or paid courses are not encouraged, except InterviewReady 😅

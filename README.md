@@ -1,7 +1,7 @@
 # System Design Resources
 These are the best resources for System Design on the Internet.
 
-### Video Processing
+#### Video Processing
 
 Transcoding Videos at Scale: https://www.egnyte.com/blog/2018/12/transcoding-how-we-serve-videos-at-scale/
 
@@ -11,7 +11,7 @@ Netflix Video Encoding at Scale: https://netflixtechblog.com/high-quality-video-
 
 Netflix Shot based encoding: https://netflixtechblog.com/optimized-shot-based-encodes-now-streaming-4b9464204830
 
-### Cluster and Workflow Management
+#### Cluster and Workflow Management
 
 Facebook Cluster Management: https://engineering.fb.com/data-center-engineering/twine/
 
@@ -29,7 +29,7 @@ AirBnb Idempotency: https://medium.com/airbnb-engineering/avoiding-double-paymen
 
 Nginx Service Mesh: https://www.nginx.com/learn/service-mesh/
 
-### Message Queue Antipattern
+#### Message Queue Antipattern
 
 DB as queue Antipattern: http://blog.codepath.com/2012/11/15/asynchronous-processing-in-web-applications-part-1-a-database-is-not-a-queue/
 
@@ -39,13 +39,13 @@ Anti-pattern of DB as a queue: http://mikehadlow.blogspot.com/2012/04/database-a
 
 Drawbacks of DB as a queue: https://www.cloudamqp.com/blog/why-is-a-database-not-the-right-tool-for-a-queue-based-system.html
 
-### Service Mesh
+#### Service Mesh
 
 Kubernetes Service Mesh: https://akomljen.com/kubernetes-service-mesh/
 
 Kubernetes Sidecar:https://www.weave.works/blog/introduction-to-service-meshes-on-kubernetes-and-progressive-delivery
 
-### Practical System Design
+#### Practical System Design
 
 Facebook Messenger Optimisations: https://spectrum.ieee.org/how-facebooks-software-engineers-prepare-messenger-for-new-years-eve
 
@@ -57,7 +57,7 @@ Distributed Design Patterns: http://horicky.blogspot.com/2010/10/scalable-system
 
 Monolith to Microservice: https://martinfowler.com/articles/break-monolith-into-microservices.html
 
-### Distributed File System
+#### Distributed File System
 
 Open Source Distributed File System: https://docs.ceph.com/en/latest/architecture/
 
@@ -65,7 +65,7 @@ Amazon S3 Performance hacks: https://aws.amazon.com/blogs/aws/amazon-s3-performa
 
 Amazon S3 object expiration: https://aws.amazon.com/blogs/aws/amazon-s3-object-expiration/
 
-### Time Series Databases
+#### Time Series Databases
 
 Pintrest Time Series Database: https://medium.com/pinterest-engineering/goku-building-a-scalable-and-high-performant-time-series-database-system-a8ff5758a181
 
@@ -75,39 +75,39 @@ TimeSeries Relational DB: https://blog.timescale.com/blog/time-series-data-why-a
 
 Facebook Gorilla Time Series DB: http://www.vldb.org/pvldb/vol8/p1816-teller.pdf
 
-### Rate Limiting
+#### Rate Limiting
 
 Circuit Breaker Algorithm: https://martinfowler.com/bliki/CircuitBreaker.html
 
 Uber Rate Limiter: https://github.com/uber-go/ratelimit/blob/master/ratelimit.go
 
-### Network Protocols
+#### Network Protocols
 
 What is HTTP: https://engineering.cred.club/head-of-line-hol-blocking-in-http-1-and-http-2-50b24e9e3372
 
 QUIC Protocol: https://www.akamai.com/blog/performance/http3-and-quic-past-present-and-future
 
-### Chess Engine Design
+#### Chess Engine Design
 
 Chess Engine Building: https://www.youtube.com/watch?v=U4ogK0MIzqk
 
-### Subscription Management System
+#### Subscription Management System
 
 Subscription Manager: https://netflixtechblog.com/building-a-rule-based-platform-to-manage-netflix-membership-skus-at-scale-e3c0f82aa7bc
 
-### Google Docs
+#### Google Docs
 
 Operational Transform: http://www.codecommit.com/blog/java/understanding-and-applying-operational-transformation
 
 Google Docs: https://www.youtube.com/watch?v=uOFzWZrsPV0&list=PLXDe3d8o9VFtydBV5biyz9iS3WqKsBMD5&index=3
 
-### API Design
+#### API Design
 
 API Design: https://medium.com/airbnb-engineering/building-services-at-airbnb-part-1-c4c1d8fa811b
 
 Swagger APIs: https://swagger.io/docs/specification/about/
 
-### NoSQL Database Internals
+#### NoSQL Database Internals
 
 Cassandra Architecture: https://docs.datastax.com/en/archived/cassandra/3.0/cassandra/architecture/archIntro.html
 
@@ -119,7 +119,7 @@ Design Patterns in Amazon Dynamo DB: https://www.youtube.com/watch?v=HaEPXoXVf2k
 
 Internals of Amazon Dynamo DB: https://www.youtube.com/watch?v=yvBR71D0nAQ
 
-### NoSQL Database Algorithms
+#### NoSQL Database Algorithms
 
 Hyperloglog Algorithm: https://odino.org/my-favorite-data-structure-hyperloglog/
 
@@ -133,13 +133,13 @@ Scylla DB Compaction: https://github.com/scylladb/scylla/wiki/SSTable-compaction
 
 Indexing in Cassandra: https://www.bmc.com/blogs/cassandra-clustering-columns-partition-composite-key/
 
-### Database Replication
+#### Database Replication
 
 Database replication: https://dev.mysql.com/doc/refman/8.0/en/replication.html
 
 Netflix Data replication - Change Data Capture: https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b
 
-### Containers and Docker 
+#### Containers and Docker 
 
 Facebook Twine Containerization: https://engineering.fb.com/developer-tools/zookeeper-twine/
 
@@ -147,7 +147,7 @@ CloudFlare Containerization: https://blog.cloudflare.com/cloud-computing-without
 
 Docker Architecture: https://docs.docker.com/get-started/overview/#docker-architecture
 
-### Capacity Estimation
+#### Capacity Estimation
 
 Google Capacity Estimation: https://www.youtube.com/watch?v=modXC5IWTJI
 
@@ -157,7 +157,7 @@ Back of envelope Calculations at AWS: https://www.youtube.com/watch?v=-3qetLv2Yp
 
 Capacity Estimation: http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
 
-### Publisher Subscriber
+#### Publisher Subscriber
 
 Oracle Publisher Subscriber: https://docs.oracle.com/cd/B10501_01/appdev.920/a96590/adg15pub.htm
 
@@ -167,13 +167,13 @@ Asynchronous processing: http://blog.codepath.com/2013/01/06/asynchronous-proces
 
 Async Request Response: https://www.enterpriseintegrationpatterns.com/patterns/conversation/RequestResponse.html
 
-### Event Driven Architectures
+#### Event Driven Architectures
 
 Martin Fowler- Event Driven Architecture: https://www.youtube.com/watch?v=STKCRSUsyP0
 
 Event Driven Architecture: https://martinfowler.com/articles/201701-event-driven.html
 
-### Microservices
+#### Microservices
 
 Monolith Architecture: https://buttercms.com/books/microservices-for-startups/should-you-always-start-with-a-monolith/
 
@@ -183,7 +183,7 @@ Microservices: http://highscalability.com/blog/2018/4/5/do-you-have-too-many-mic
 
 Uber Nanoservices antipattern: https://www.youtube.com/watch?v=kb-m2fasdDY
 
-### Load Balancing
+#### Load Balancing
 
 Load Balancer with Sticky Sessions: https://stackoverflow.com/questions/10494431/sticky-and-non-sticky-sessions
 
@@ -193,7 +193,7 @@ Nginx Load Balancing: https://www.nginx.com/resources/glossary/load-balancing/
 
 Consistent hashing: https://michaelnielsen.org/blog/consistent-hashing/
 
-### Alerts and Anomaly Detection
+#### Alerts and Anomaly Detection
 
 Outlier Detection: https://towardsdatascience.com/outlier-detection-with-isolation-forest-3d190448d45e
 
@@ -205,7 +205,7 @@ Microsoft Anomaly Detection: https://www.youtube.com/watch?v=12Xq9OLdQwQ&t=0s
 
 Facebook Data Engineering: https://engineering.fb.com/2016/05/09/core-data/introducing-fblearner-flow-facebook-s-ai-backbone/
 
-### Distributed Logging
+#### Distributed Logging
 
 Uber Distributed Request Tracing: https://eng.uber.com/distributed-tracing/
 
@@ -213,7 +213,7 @@ Pintrest Logging: https://medium.com/@Pinterest_Engineering/open-sourcing-singer
 
 Google Monitoring Infrastructure: https://www.facebook.com/atscaleevents/videos/959344524420015/
 
-### Metrics and Text Search Engine
+#### Metrics and Text Search Engine
 
 Facebook real time text search engine: https://www.facebook.com/watch/?v=432864835468
 
@@ -221,7 +221,7 @@ Elastic Search Time Based Querying: https://www.elastic.co/guide/en/elasticsearc
 
 Elastic Search Aggregation: https://www.elastic.co/guide/en/elasticsearch/guide/current/aggregations.html
 
-### Single Point of Failure
+#### Single Point of Failure
 
 Avoiding Single Points of Failure: https://medium.com/the-cloud-architect/patterns-for-resilient-architecture-part-3-16e8601c488e
 
@@ -233,17 +233,17 @@ DNS single point of failure 2004: http://www.tenereillo.com/GSLBPageOfShame.htm
 
 Sharding: https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6
 
-### Location Based Services
+#### Location Based Services
 
 Google S2 library: https://blog.christianperone.com/2015/08/googles-s2-geometry-on-the-sphere-cells-and-hilbert-curve/
 
-### Real Time Processing
+#### Real Time Processing
 
 LinkedIn Brooklin- Real time data streaming: https://engineering.linkedin.com/blog/2019/brooklin-open-source
 
 Netflix Real Time Stream Processing: https://netflixtechblog.com/keystone-real-time-stream-processing-platform-a3ee651812a
 
-### Caching
+#### Caching
 
 Google Guava Cache: https://github.com/google/guava/wiki/CachesExplained
 

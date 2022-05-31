@@ -173,6 +173,10 @@ Martin Fowler- Event Driven Architecture: https://www.youtube.com/watch?v=STKCRS
 
 Event Driven Architecture: https://martinfowler.com/articles/201701-event-driven.html
 
+#### Hexagonal Architectures
+
+Hexagonal Architecture: https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
+
 #### Microservices
 
 Monolith Architecture: https://buttercms.com/books/microservices-for-startups/should-you-always-start-with-a-monolith/
@@ -182,6 +186,8 @@ Monoliths vs Microservices: https://articles.microservices.com/monolithic-vs-mic
 Microservices: http://highscalability.com/blog/2018/4/5/do-you-have-too-many-microservices-five-design-attributes-th.html
 
 Uber Nanoservices antipattern: https://www.youtube.com/watch?v=kb-m2fasdDY
+
+Uber Domain oriented microservice: https://eng.uber.com/microservice-architecture/
 
 #### Load Balancing
 
@@ -252,3 +258,5 @@ Caching (See the README): https://github.com/ben-manes/caffeine/
 Caching: http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html
 
 Microsoft Caching Guide: https://docs.microsoft.com/en-us/previous-versions/msp-n-p/dn589802(v%3dpandp.10)
+
+Caching patterns: https://hazelcast.com/blog/a-hitchhikers-guide-to-caching-patterns/

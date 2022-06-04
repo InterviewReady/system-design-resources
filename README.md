@@ -21,6 +21,8 @@ Netflix Workflow Orchestration: https://netflix.github.io/conductor/
 
 Opensource Workflow Management: https://github.com/spotify/luigi
 
+Meta Hardware Management: https://engineering.fb.com/2020/12/09/data-center-engineering/how-facebook-keeps-its-large-scale-infrastructure-hardware-up-and-running/
+
 #### Intra-Service Messaging 
 
 What is a message queue: https://www.cloudamqp.com/blog/what-is-message-queuing.html
@@ -44,6 +46,10 @@ Drawbacks of DB as a queue: https://www.cloudamqp.com/blog/why-is-a-database-not
 Kubernetes Service Mesh: https://akomljen.com/kubernetes-service-mesh/
 
 Kubernetes Sidecar:https://www.weave.works/blog/introduction-to-service-meshes-on-kubernetes-and-progressive-delivery
+
+Service Mesh: https://www.weave.works/blog/introduction-to-service-meshes-on-kubernetes-and-progressive-delivery
+
+NginX Service Mesh: https://www.nginx.com/learn/service-mesh/
 
 #### Practical System Design
 
@@ -139,6 +145,8 @@ Database replication: https://dev.mysql.com/doc/refman/8.0/en/replication.html
 
 Netflix Data replication - Change Data Capture: https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b
 
+LinkedIn Logging Usecases: https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+
 #### Containers and Docker 
 
 Facebook Twine Containerization: https://engineering.fb.com/developer-tools/zookeeper-twine/
@@ -211,6 +219,10 @@ Microsoft Anomaly Detection: https://www.youtube.com/watch?v=12Xq9OLdQwQ&t=0s
 
 Facebook Data Engineering: https://engineering.fb.com/2016/05/09/core-data/introducing-fblearner-flow-facebook-s-ai-backbone/
 
+LinkedIn Real Time Alerting: https://engineering.linkedin.com/blog/2019/06/smart-alerts-in-thirdeye--linkedins-real-time-monitoring-platfor
+
+LinkedIn Isolation Forests: https://engineering.linkedin.com/blog/2019/isolation-forest
+
 #### Distributed Logging
 
 Uber Distributed Request Tracing: https://eng.uber.com/distributed-tracing/
@@ -260,3 +272,9 @@ Caching: http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html
 Microsoft Caching Guide: https://docs.microsoft.com/en-us/previous-versions/msp-n-p/dn589802(v%3dpandp.10)
 
 Caching patterns: https://hazelcast.com/blog/a-hitchhikers-guide-to-caching-patterns/
+
+#### Distributed concensus
+
+Paxos: http://ifeanyi.co/posts/understanding-consensus/
+
+Raft: https://raft.github.io/

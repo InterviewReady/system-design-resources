@@ -278,3 +278,7 @@ Caching patterns: https://hazelcast.com/blog/a-hitchhikers-guide-to-caching-patt
 Paxos: http://ifeanyi.co/posts/understanding-consensus/
 
 Raft: https://raft.github.io/
+
+### Authorization
+
+Designing an Authorization Model for an Enterprise https://cerbos.dev/blog/designing-an-authorization-model-for-an-enterprise

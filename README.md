@@ -93,6 +93,8 @@ What is HTTP: https://engineering.cred.club/head-of-line-hol-blocking-in-http-1-
 
 QUIC Protocol: https://www.akamai.com/blog/performance/http3-and-quic-past-present-and-future
 
+TCP Protocol algorithms: https://ee.lbl.gov/papers/congavoid.pdf (First 10 pages are important)
+
 #### Chess Engine Design
 
 Chess Engine Building: https://www.youtube.com/watch?v=U4ogK0MIzqk
@@ -255,7 +257,11 @@ Sharding: https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6
 
 Google S2 library: https://blog.christianperone.com/2015/08/googles-s2-geometry-on-the-sphere-cells-and-hilbert-curve/
 
-#### Real Time Processing
+#### Batch Processing
+
+Map Reduce Architecture: https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf
+
+#### Real Time Stream Processing
 
 LinkedIn Brooklin- Real time data streaming: https://engineering.linkedin.com/blog/2019/brooklin-open-source
 
@@ -282,3 +288,4 @@ Raft: https://raft.github.io/
 ### Authorization
 
 Designing an Authorization Model for an Enterprise https://cerbos.dev/blog/designing-an-authorization-model-for-an-enterprise
+

@@ -122,7 +122,7 @@ Operational Transform: http://www.codecommit.com/blog/java/understanding-and-app
 Google Docs: https://www.youtube.com/watch?v=uOFzWZrsPV0&list=PLXDe3d8o9VFtydBV5biyz9iS3WqKsBMD5&index=3
 
 ## 
-#### API Design
+### API Design
 
 API Design: https://medium.com/airbnb-engineering/building-services-at-airbnb-part-1-c4c1d8fa811b
 

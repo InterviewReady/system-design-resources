@@ -104,6 +104,10 @@ QUIC Protocol: https://www.akamai.com/blog/performance/http3-and-quic-past-prese
 
 TCP Protocol algorithms: https://ee.lbl.gov/papers/congavoid.pdf (First 10 pages are important)
 
+WebRTC: https://webrtc.github.io/webrtc-org/blog/2012/07/23/a-great-introduction-to-webrtc.html
+
+WebSockets: https://datatracker.ietf.org/doc/html/rfc6455#section-1.2
+
 ## 
 ### Chess Engine Design
 

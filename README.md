@@ -178,6 +178,8 @@ CloudFlare Containerization: https://blog.cloudflare.com/cloud-computing-without
 
 Docker Architecture: https://docs.docker.com/get-started/overview/#docker-architecture
 
+Container Orchestration https://www.youtube.com/watch?v=X48VuDVv0do
+
 ## 
 ### Capacity Estimation
 

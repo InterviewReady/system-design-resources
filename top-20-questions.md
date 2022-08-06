@@ -1,7 +1,5 @@
 These are 20 popular system design questions. Each question requires you to think of how it's core engineering requirements can be fulfilled.
 
-Source: [InterviewReady](https://get.interviewready.io/blog/interviewready-20-system-design)
-
 Since these requirements are (largely) mutually-exclusive, you see a diverse set of engineering patterns while solving them. These patterns help solve problems in both interviews and real-world design discussions.
 
 ## 

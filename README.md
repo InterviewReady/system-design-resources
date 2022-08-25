@@ -338,6 +338,6 @@ Raft: https://raft.github.io/
 Designing an Authorization Model for an Enterprise https://cerbos.dev/blog/designing-an-authorization-model-for-an-enterprise
 
 ##
-## Paid Course
+## System Design Course
 
 InterviewReady: https://get.interviewready.io

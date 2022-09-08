@@ -70,6 +70,8 @@ Distributed Design Patterns: http://horicky.blogspot.com/2010/10/scalable-system
 
 Monolith to Microservice: https://martinfowler.com/articles/break-monolith-into-microservices.html
 
+Zerodha Tech Stack: https://zerodha.tech/blog/hello-world/
+
 ## 
 ## Distributed File System
 

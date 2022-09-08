@@ -24,6 +24,8 @@ Opensource Workflow Management: https://github.com/spotify/luigi
 
 Meta Hardware Management: https://engineering.fb.com/2020/12/09/data-center-engineering/how-facebook-keeps-its-large-scale-infrastructure-hardware-up-and-running/
 
+Meta Capacity Assignment: https://engineering.fb.com/2022/09/06/data-center-engineering/viewing-the-world-as-a-computer-global-capacity-management/
+
 ## 
 ## Intra-Service Messaging 
  

@@ -344,4 +344,4 @@ Designing an Authorization Model for an Enterprise https://cerbos.dev/blog/desig
 ##
 ## System Design Course
 
-InterviewReady: https://get.interviewready.io (Use the coupon HELLOWORLD for 20% off)
+InterviewReady: [https://interviewready.io](https://interviewready.io?_aff=HELLOWORLD&source=github) (Use the coupon __HELLOWORLD__ for 20% off)

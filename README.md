@@ -341,7 +341,12 @@ Raft: https://raft.github.io/
 ## 
 ## Authorization
 
-Designing an Authorization Model for an Enterprise https://cerbos.dev/blog/designing-an-authorization-model-for-an-enterprise
+Designing an Authorization Model for an Enterprise: https://cerbos.dev/blog/designing-an-authorization-model-for-an-enterprise
+
+##
+## Content Delivery Network
+
+AWS CloudFront CDN with S3: https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-s3-amazon-cloudfront-a-match-made-in-the-cloud/
 
 ##
 ## System Design Course

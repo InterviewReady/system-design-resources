@@ -123,6 +123,8 @@ WebRTC: https://webrtc.github.io/webrtc-org/blog/2012/07/23/a-great-introduction
 
 WebSockets: https://datatracker.ietf.org/doc/html/rfc6455#section-1.2
 
+Dynamic Source Routing using QUIC: https://fb.watch/fSEbI4KHlA/
+
 ## 
 ## Chess Engine Design
 

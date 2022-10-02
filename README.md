@@ -318,6 +318,8 @@ LinkedIn Brooklin- Real time data streaming: https://engineering.linkedin.com/bl
 
 Netflix Real Time Stream Processing: https://netflixtechblog.com/keystone-real-time-stream-processing-platform-a3ee651812a
 
+KSQLDB for Kafka: https://docs.ksqldb.io/en/latest/operate-and-deploy/how-it-works/
+
 ## 
 ## Caching
 

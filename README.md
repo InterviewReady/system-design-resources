@@ -351,6 +351,7 @@ Designing an Authorization Model for an Enterprise: https://cerbos.dev/blog/desi
 AWS CloudFront CDN with S3: https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-s3-amazon-cloudfront-a-match-made-in-the-cloud/
 
 ##
-## System Design Course
+## System Design Resources
 
-InterviewReady: [https://interviewready.io](https://interviewready.io?_aff=HELLOWORLD&source=github) (Use the coupon __HELLOWORLD__ for 20% off)
+Designing Data Intensive Applications: https://amzn.to/3SyNAOy
+InterviewReady Videos: [https://interviewready.io](https://interviewready.io?_aff=HELLOWORLD&source=github) (Use the coupon __HELLOWORLD__ for 20% off)

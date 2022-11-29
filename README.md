@@ -26,6 +26,8 @@ Meta Hardware Management: https://engineering.fb.com/2020/12/09/data-center-engi
 
 Meta Capacity Assignment: https://engineering.fb.com/2022/09/06/data-center-engineering/viewing-the-world-as-a-computer-global-capacity-management/
 
+Amazon EC2: https://www.allthingsdistributed.com/2015/07/under-the-hood-of-the-amazon-ec2-container-service.html
+
 ## 
 ## Intra-Service Messaging 
  

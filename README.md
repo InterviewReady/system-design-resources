@@ -110,7 +110,7 @@ Learn Redis through Redis University  : https://university.redis.com/
 
 Redis Open Source Repo : https://github.com/redis/redis
 
-Redis Architechture : https://medium.com/opstree-technology/redis-cluster-architecture-replication-sharding-and-failover-86871e783ac0
+Redis Architecture : https://medium.com/opstree-technology/redis-cluster-architecture-replication-sharding-and-failover-86871e783ac0
 
 ## 
 ## Network Protocols

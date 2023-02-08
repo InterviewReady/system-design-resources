@@ -37,6 +37,8 @@ AirBnb Idempotency: https://medium.com/airbnb-engineering/avoiding-double-paymen
 
 Nginx Service Mesh: https://www.nginx.com/learn/service-mesh/
 
+Meta Async Task Computing: https://engineering.fb.com/2023/01/31/production-engineering/meta-asynchronous-computing/
+
 ## 
 ## Message Queue Antipattern
 

@@ -360,3 +360,5 @@ AWS CloudFront CDN with S3: https://aws.amazon.com/blogs/networking-and-content-
 Designing Data Intensive Applications: https://amzn.to/3SyNAOy
 
 InterviewReady Videos: [https://interviewready.io](https://interviewready.io?_aff=HELLOWORLD&source=github)
+
+System Design Roadmap: [https://roadmap.sh/system-design](https://roadmap.sh/system-design)

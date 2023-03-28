@@ -355,6 +355,11 @@ Designing an Authorization Model for an Enterprise: https://cerbos.dev/blog/desi
 AWS CloudFront CDN with S3: https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-s3-amazon-cloudfront-a-match-made-in-the-cloud/
 
 ##
+## Testing Distributed Systems
+
+Deterministic Testing: https://www.youtube.com/watch?v=4fFDFbi3toc
+
+##
 ## System Design Resources
 
 Designing Data Intensive Applications: https://amzn.to/3SyNAOy

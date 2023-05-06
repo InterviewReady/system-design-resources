@@ -362,8 +362,8 @@ Deterministic Testing: https://www.youtube.com/watch?v=4fFDFbi3toc
 ##
 ## System Design Resources
 
-Designing Data Intensive Applications: https://amzn.to/3SyNAOy
+Designing Data Intensive Applications Book: https://amzn.to/3SyNAOy
 
 WhitePapers: https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers
 
-InterviewReady Videos: [https://interviewready.io](https://interviewready.io?_aff=HELLOWORLD&source=github)
+InterviewReady Videos: [https://interviewready.io](https://interviewready.io?source=github)

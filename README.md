@@ -229,9 +229,18 @@ Martin Fowler- Event Driven Architecture: https://www.youtube.com/watch?v=STKCRS
 Event Driven Architecture: https://martinfowler.com/articles/201701-event-driven.html
 
 ## 
-## Hexagonal Architectures
+## Software Architectures
 
 Hexagonal Architecture: https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
+
+Hexagonal architecture (Alistair Cockburn) https://alistair.cockburn.us/hexagonal-architecture/
+
+The Clean Code by Robert C. Martin (Uncle Bob) https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+
+CQRS https://martinfowler.com/bliki/CQRS.html
+
+DomainDrivenDesign https://martinfowler.com/bliki/DomainDrivenDesign.html
+
 
 ## 
 ## Microservices
@@ -245,6 +254,14 @@ Microservices: http://highscalability.com/blog/2018/4/5/do-you-have-too-many-mic
 Uber Nanoservices antipattern: https://www.youtube.com/watch?v=kb-m2fasdDY
 
 Uber Domain oriented microservice: https://eng.uber.com/microservice-architecture/
+
+
+##
+## Distributed Transactions consistency Patterns
+
+Transactional outbox https://microservices.io/patterns/data/transactional-outbox.html
+
+SAGAS Long lived transactions (LLTs) https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf
 
 ## 
 ## Load Balancing

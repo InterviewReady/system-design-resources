@@ -366,6 +366,8 @@ Raft: https://raft.github.io/
 
 Designing an Authorization Model for an Enterprise: https://cerbos.dev/blog/designing-an-authorization-model-for-an-enterprise
 
+The Architectural Patterns of Cloud-native Authorization Systems: https://www.aserto.com/blog/5-laws-cloud-native-authorization
+
 ##
 ## Content Delivery Network
 

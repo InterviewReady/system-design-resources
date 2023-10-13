@@ -134,7 +134,7 @@ These are the best resources for System Design on the Internet.
 ##
 ## Google Docs
 - [Operational Transform](http://www.codecommit.com/blog/java/understanding-and-applying-operational-transformation)
-- [Google Docs](https://www.youtube.com/watch?v=uOFzWZrsPV0&list=PLX
+- [Google Docs](https://www.youtube.com/watch?v=uOFzWZrsPV0&list=PLX)
 
 
 ## 

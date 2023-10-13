@@ -1,6 +1,21 @@
 # System Design Resources
 These are the best resources for System Design on the Internet.
 
+## Table of Contents
+
+- [Distributed Logging](#distributed-logging)
+- [Metrics and Text Search Engine](#metrics-and-text-search-engine)
+- [Single Point of Failure](#single-point-of-failure)
+- [Location Based Services](#location-based-services)
+- [Batch Processing](#batch-processing)
+- [Real Time Stream Processing](#real-time-stream-processing)
+- [Caching](#caching)
+- [Distributed Consensus](#distributed-consensus)
+- [Authorization](#authorization)
+- [Content Delivery Network](#content-delivery-network)
+- [Testing Distributed Systems](#testing-distributed-systems)
+- [System Design Resources](#system-design-resources)
+
 ##
 ## Video Processing
 - [Transcoding Videos at Scale](https://www.egnyte.com/blog/2018/12/transcoding-how-we-serve-videos-at-scale/)

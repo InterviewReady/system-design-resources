@@ -1,8 +1,35 @@
 # System Design Resources
 These are the best resources for System Design on the Internet.
 
-## Table of Contents
+# Table of Contents
 
+- [Video Processing](#video-processing)
+- [Cluster and Workflow Management](#cluster-and-workflow-management)
+- [Intra-Service Messaging](#intra-service-messaging)
+- [Message Queue Antipattern](#message-queue-antipattern)
+- [Service Mesh](#service-mesh)
+- [Practical System Design](#practical-system-design)
+- [Distributed File System](#distributed-file-system)
+- [Time Series Databases](#time-series-databases)
+- [Rate Limiting](#rate-limiting)
+- [In Memory Database - Redis](#in-memory-database---redis)
+- [Network Protocols](#network-protocols)
+- [Chess Engine Design](#chess-engine-design)
+- [Subscription Management System](#subscription-management-system)
+- [Google Docs](#google-docs)
+- [API Design](#api-design)
+- [NoSQL Database Internals](#nosql-database-internals)
+- [NoSQL Database Algorithms](#nosql-database-algorithms)
+- [Database Replication](#database-replication)
+- [Containers and Docker](#containers-and-docker)
+- [Capacity Estimation](#capacity-estimation)
+- [Publisher Subscriber](#publisher-subscriber)
+- [Event Driven Architectures](#event-driven-architectures)
+- [Software Architectures](#software-architectures)
+- [Microservices](#microservices)
+- [Distributed Transactions consistency Patterns](#distributed-transactions-consistency-patterns)
+- [Load Balancing](#load-balancing)
+- [Alerts and Anomaly Detection](#alerts-and-anomaly-detection)
 - [Distributed Logging](#distributed-logging)
 - [Metrics and Text Search Engine](#metrics-and-text-search-engine)
 - [Single Point of Failure](#single-point-of-failure)

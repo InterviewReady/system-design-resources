@@ -287,7 +287,7 @@ These are the best resources for System Design on the Internet.
 - [Google Guava Cache](https://github.com/google/guava/wiki/CachesExplained)
 - [Caching (See the README)](https://github.com/ben-manes/caffeine/)
 - [Caching](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
-- [Microsoft Caching Guide](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/dn589802(v%3dpandp.10)
+- [Microsoft Caching Guide](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/dn589802(v%3dpandp.10))
 - [Caching patterns](https://hazelcast.com/blog/a-hitchhikers-guide-to-caching-patterns/)
 
 ##

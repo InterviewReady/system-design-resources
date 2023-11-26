@@ -68,7 +68,7 @@ These are the best resources for System Design on the Internet.
 - [Meta Async Task Computing](https://engineering.fb.com/2023/01/31/production-engineering/meta-asynchronous-computing/)
 
 ## Message Queue Antipattern
-- [DB as queue Antipattern](http://blog.codepath.com/2012/11/15/asynchronous-processing-in-web-applications-part-1-a-database-is-not-a-queue/)
+- [DB as queue Antipattern](https://en.wikipedia.org/wiki/Database-as-IPC)
 - [Using a database as a message queue](https://softwareengineering.stackexchange.com/questions/231410/why-database-as-queue-so-bad)
 - [Anti-pattern of DB as a queue](http://mikehadlow.blogspot.com/2012/04/database-as-queue-anti-pattern.html)
 - [Drawbacks of DB as a queue](https://www.cloudamqp.com/blog/why-is-a-database-not-the-right-tool-for-a-queue-based-system.html)

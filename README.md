@@ -280,6 +280,7 @@ These are the best resources for System Design on the Internet.
 - [LinkedIn Brooklin- Real-time data streaming](https://engineering.linkedin.com/blog/2019/brooklin-open-source)
 - [Netflix Real Time Stream Processing](https://netflixtechblog.com/keystone-real-time-stream-processing-platform-a3ee651812a)
 - [KSQLDB for Kafka](https://docs.ksqldb.io/en/latest/operate-and-deploy/how-it-works/)
+- [Netflix Psyberg](https://netflixtechblog.com/1-streamlining-membership-data-engineering-at-netflix-with-psyberg-f68830617dd1)
 
 ##
 ## Caching

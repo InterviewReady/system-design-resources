@@ -226,7 +226,7 @@ These are the best resources for System Design on the Internet.
 ## Load Balancing
 
 - [Load Balancer with Sticky Sessions](https://stackoverflow.com/questions/10494431/sticky-and-non-sticky-sessions)
-- [Citrix what is load balancing](https://www.citrix.com/en-in/solutions/app-delivery-and-security/load-balancing/what-is-load-balancing.html)
+- [NetScaler what is load balancing](https://www.netscaler.com/articles/what-is-load-balancing)
 - [Nginx Load Balancing](https://www.nginx.com/resources/glossary/load-balancing/)
 - [Consistent hashing](https://michaelnielsen.org/blog/consistent-hashing/)
 

@@ -262,6 +262,7 @@ These are the best resources for System Design on the Internet.
 - [Netflix Multi-Region Availability](https://netflixtechblog.com/active-active-for-multi-regional-resiliency-c47719f6685b)
 - [Oracle Single Points of failure](https://docs.oracle.com/cd/E19693-01/819-0992/fjdch/index.html)
 - [DNS single point of failure 2004](http://www.tenereillo.com/GSLBPageOfShame.htm)
+- [DNS traffic management by Shopify](https://shopify.engineering/introduction-dns-traffic-management)
 - [Sharding](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
 
 ##

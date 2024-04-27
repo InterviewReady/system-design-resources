@@ -321,3 +321,4 @@ These are the best resources for System Design on the Internet.
 - [Designing Data Intensive Applications Book](https://amzn.to/3SyNAOy)
 - [WhitePapers](https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers)
 - [InterviewReady Videos](https://interviewready.io?source=github)
+- [System Design Online Judge](https://interviewready.io/question-list/system-design-judge)

@@ -79,6 +79,7 @@ These are the best resources for System Design on the Internet.
 - [Kubernetes Sidecar](https://www.weave.works/blog/introduction-to-service-meshes-on-kubernetes-and-progressive-delivery)
 - [Service Mesh](https://www.weave.works/blog/introduction-to-service-meshes-on-kubernetes-and-progressive-delivery)
 - [NginX Service Mesh](https://www.nginx.com/learn/service-mesh/)
+- [Data Plane and Control Plane](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc)
 
 ##
 ## Practical System Design
@@ -169,6 +170,7 @@ These are the best resources for System Design on the Internet.
 - [Database replication](https://dev.mysql.com/doc/refman/8.0/en/replication.html)
 - [Netflix Data replication - Change Data Capture](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b)
 - [LinkedIn Logging Usecases](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+- [Uber Trillions of indexes in LedgerStore](https://www.uber.com/en-IN/blog/how-ledgerstore-supports-trillions-of-indexes)
 
 ##
 ## Containers and Docker
@@ -314,11 +316,13 @@ These are the best resources for System Design on the Internet.
 ## Testing Distributed Systems
 
 - [Deterministic Testing](https://www.youtube.com/watch?v=4fFDFbi3toc)
+- [TLA+ by Leslie Lamport](https://lamport.azurewebsites.net/tla/tla.html)
+- [Jepsen](https://jenpsen.io)
 
 ##
 ## System Design Resources
 
-- [Designing Data Intensive Applications Book](https://amzn.to/3SyNAOy)
+- [Designing Data-Intensive Applications Book](https://amzn.to/3SyNAOy)
 - [WhitePapers](https://interviewready.io/blog/white-papers-worth-reading-for-software-engineers)
 - [InterviewReady Videos](https://interviewready.io?source=github)
 - [System Design Online Judge](https://interviewready.io/question-list/system-design-judge)

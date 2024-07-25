@@ -232,6 +232,8 @@ These are the best resources for System Design on the Internet.
 - [NetScaler what is load balancing](https://www.netscaler.com/articles/what-is-load-balancing)
 - [Nginx Load Balancing](https://www.nginx.com/resources/glossary/load-balancing/)
 - [Consistent hashing](https://michaelnielsen.org/blog/consistent-hashing/)
+- [Minimizing connection churn](https://netflixtechblog.com/curbing-connection-churn-in-zuul-2feb273a3598#5e4d)
+- [Google Subsetting Algorithm](https://queue.acm.org/detail.cfm?id=3570937)
 
 ##
 ## Alerts and Anomaly Detection

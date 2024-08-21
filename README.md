@@ -296,6 +296,7 @@ These are the best resources for System Design on the Internet.
 - [Caching](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
 - [Microsoft Caching Guide](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/dn589802(v%3dpandp.10))
 - [Caching patterns](https://hazelcast.com/blog/a-hitchhikers-guide-to-caching-patterns/)
+- [Uber's Integrated Cache for 40M RPS](https://www.uber.com/en-IN/blog/how-uber-serves-over-40-million-reads-per-second-using-an-integrated-cache)
 
 ##
 ## Distributed consensus

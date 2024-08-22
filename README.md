@@ -64,7 +64,6 @@ These are the best resources for System Design on the Internet.
 ## Intra-Service Messaging
 - [What is a message queue](https://www.cloudamqp.com/blog/what-is-message-queuing.html)
 - [AirBnb Idempotency](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
-- [Nginx Service Mesh](https://www.nginx.com/learn/service-mesh/)
 - [Meta Async Task Computing](https://engineering.fb.com/2023/01/31/production-engineering/meta-asynchronous-computing/)
 
 ## Message Queue Antipattern
@@ -78,7 +77,7 @@ These are the best resources for System Design on the Internet.
 - [Kubernetes Service Mesh](https://akomljen.com/kubernetes-service-mesh/)
 - [Kubernetes Sidecar](https://www.weave.works/blog/introduction-to-service-meshes-on-kubernetes-and-progressive-delivery)
 - [Service Mesh](https://www.weave.works/blog/introduction-to-service-meshes-on-kubernetes-and-progressive-delivery)
-- [NginX Service Mesh](https://www.nginx.com/learn/service-mesh/)
+- [NginX Service Mesh](https://docs.nginx.com/nginx-service-mesh/about/what-is-nsm/)
 - [Data Plane and Control Plane](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc)
 
 ##

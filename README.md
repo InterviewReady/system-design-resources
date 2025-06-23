@@ -54,7 +54,7 @@ These are the best resources for System Design on the Internet.
 ## Cluster and Workflow Management
 - [Facebook Cluster Management](https://engineering.fb.com/data-center-engineering/twine/)
 - [Google Autopilot - Autoscaling](https://dl.acm.org/doi/pdf/10.1145/3342195.3387524)
-- [Netflix Workflow Orchestration](https://netflix.github.io/conductor/)
+- [Netflix Workflow Orchestration](https://netflixtechblog.com/netflix-conductor-a-microservices-orchestrator-2e8d4771bf40)
 - [Opensource Workflow Management](https://github.com/spotify/luigi)
 - [Meta Hardware Management](https://engineering.fb.com/2020/12/09/data-center-engineering/how-facebook-keeps-its-large-scale-infrastructure-hardware-up-and-running/)
 - [Meta Capacity Assignment](https://engineering.fb.com/2022/09/06/data-center-engineering/viewing-the-world-as-a-computer-global-capacity-management/)

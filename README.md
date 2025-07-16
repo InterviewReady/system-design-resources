@@ -45,7 +45,7 @@ These are the best resources for System Design on the Internet.
 
 ##
 ## Video Processing
-- [Transcoding Videos at Scale](https://www.egnyte.com/blog/2018/12/transcoding-how-we-serve-videos-at-scale/)
+- [Transcoding Videos at Scale](https://www.egnyte.com/blog/post/transcoding-how-we-serve-videos-at-scale)
 - [Facebook Video Broadcasting](https://engineering.fb.com/ios/under-the-hood-broadcasting-live-video-to-millions/)
 - [Netflix Video Encoding at Scale](https://netflixtechblog.com/high-quality-video-encoding-at-scale-d159db052746)
 - [Netflix Shot based encoding](https://netflixtechblog.com/optimized-shot-based-encodes-now-streaming-4b9464204830)
